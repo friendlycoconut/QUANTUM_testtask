@@ -1,7 +1,7 @@
 import os
 
-TRAIN_PATH = './dataset/stage2/stage2_train/'
-TEST_PATH = './dataset/stage2/stage2_test/'
+TRAIN_PATH = './dataset/stage1/stage1_train/'
+TEST_PATH = './dataset/stage1/stage1_test/'
 
 
 IMG_WIDTH = 128
